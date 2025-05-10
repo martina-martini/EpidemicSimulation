@@ -9,4 +9,5 @@ Simulation of epidemic processes looking at Susceptibles, Infected and Recovered
  
  Then, once you have defined your strategy simulate both the stochastic SIR and its mean field. Are there significant differences, why? What happens if you scale down your population N to 10k (of course you have to scale down also other parameters, such as H and IT places)?
 
- # 🔗 PDF Report attached
+ 
+ 🔗 PDF Report attached
