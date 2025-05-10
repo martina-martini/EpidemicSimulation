@@ -1,6 +1,8 @@
 # EpidemicSimulation
 Simulation of epidemic processes looking at Susceptibles, Infected and Recovered trends, adding hospitalization measures and other phisical barriers for slowing down the infections
 
+ ## Assignment
+ 
  The goal of Lab L7 is to define and simulate simple strategies to control an epidemic (SIR) process through non-pharmaceutical interventions (I.e. by introducing mobility restrictions).
  
  Consider a homogeneous population of 50M individuals. Fix R(0)=4 and gamma= 1/14 days (recovering rate). Assume that 10% (6%) of the infected individuals needs to be Hospitalized (H) (undergo Intensive Treatments (IT).) 
